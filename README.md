@@ -3,7 +3,7 @@ Still learning and practising and passionate about front-end-designing!✨
 
 - 🏫 I'm doing my BSc. in Computer Science and Engineering
 - 🔭 I’m currently working on Laptop Component identification
-- 🌱 I’m currently learning Data Science and Artificial Intelligence
+- 🌱 I’m currently learning Data Science, Artificial Intelligence and Machine Learning. 
 - 📫 How to reach me: https://www.linkedin.com/in/rezmah-jemima-rupin-770b27209/
 
 
