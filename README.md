@@ -1,9 +1,9 @@
 ### Hi there, I'm Rezmah Rupin 👋
-Still learning and practising and passionate about front-end-designing!✨
+Still learning and practicing and passionate about front-end-designing!✨
 
-- 🏫 I'm doing my BSc. in Computer Science and Engineering
-- 🔭 I’m currently working on Laptop Component identification
-- 🌱 I’m currently learning Data Science, Artificial Intelligence and Machine Learning. 
+- 🏫 I'm a BSc. graduate in Computer Science and Engineering
+- 🔭 I’m currently working on Laptop Component identification and other mobile application projects.
+- 🌱 I have knowledge of Data Science, Artificial Intelligence, and Machine Learning. 
 - 📫 How to reach me: https://www.linkedin.com/in/rezmah-jemima-rupin-770b27209/
 
 
